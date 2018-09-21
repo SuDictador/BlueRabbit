@@ -78,6 +78,8 @@ public class Persona implements Serializable{
 	public void setCORREO(String cORREO) {
 		CORREO = cORREO;
 	}
+	//@id@OneToOne
 	
+	//mappedBy
 	
 }
